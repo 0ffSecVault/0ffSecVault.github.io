@@ -1,6 +1,6 @@
 ## O F F E N S I V E
 
-[OSINT](
+[OSINT]
 C2
 files windows
 files linux
