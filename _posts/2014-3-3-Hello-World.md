@@ -1,14 +1,8 @@
 ---
 layout: post
-title: hack its art !
+title: Welcome
 published: true
 ---
 
-> ###
-[RED TEAM / OFFENSIVE]()
-
-
-*
-
-> [BLUE TEAM / DEFENSIVE]()
-
+[RED TEAM / OFFENSIVE](https://library.panic.com/general/ssh-keys/)
+[BLUE TEAM / DEFENSIVE](https://code.visualstudio.com/docs/editor/github)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hack its art !
+title: Welcome
 published: true
 ---
 
