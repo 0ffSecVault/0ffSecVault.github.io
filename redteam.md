@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OFFENSIVE
+permalink: /posts/
 published: true
 ---
                                 
