@@ -1,6 +1,5 @@
 ---
 layout: page
-title: DEFENSIVE
+title: Pentesting Platforms
 published: true
 ---
-
