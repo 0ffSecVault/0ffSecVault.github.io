@@ -1,4 +1,3 @@
-## Vault
 
 >> <a href="{{ site.baseurl }}/redteam">RED TEAM | OFFENSIVE</a>
 
