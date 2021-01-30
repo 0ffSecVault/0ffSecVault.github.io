@@ -1,14 +1,14 @@
 ---
 layout: post
-title: hack it art !
+title: hack its art !
 published: true
 ---
 
 > ###
-[RED TEAM / OFFENSIVE]
+[RED TEAM / OFFENSIVE]()
 
 
 *
 
-> [BLUE TEAM / DEFENSIVE]
+> [BLUE TEAM / DEFENSIVE]()
 
