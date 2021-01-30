@@ -1,3 +1,5 @@
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+<a href="{{ site.baseurl }}/redteam">RED TEAM | OFFENSIVE</a>
+<a href="{{ site.baseurl }}/blueteam">BLUE TEAM | DEFENSIVE</a>
+
