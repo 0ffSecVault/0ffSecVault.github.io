@@ -5,12 +5,15 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+The goal of 0ffSecVault is to share and help professionals or enthusiastic people that wants to join the cyber security world from Offensive & Defensive sides. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+b0ydC - Owner
 
-### Contact me
+CyberSecurity Engineer from CR.
 
-[0ffsecvault@protonmail.com](mailto:0ffsecvault@protonmail.com)
+### Contact us
+
+Please email us in case you have any doubt, improvement or correction. 
+[0ffSecVault@](mailto:0ffsecvault@protonmail.com)
