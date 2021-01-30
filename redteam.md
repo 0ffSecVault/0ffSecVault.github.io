@@ -1,3 +1,18 @@
-## A New Post
+## O F F E N S I V E
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+[OSINT](
+C2
+files windows
+files linux
+gobuster usage
+dirb usage
+mimikatz usage
+nfs enumeration
+nmap enumeration
+steganography
+sql injection
+port enumeration
+buffer overflow
+privilege escalation
+malware
+
