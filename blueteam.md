@@ -1,3 +1,3 @@
-## A New Post
+# D E F E N S I V E
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
