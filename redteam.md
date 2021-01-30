@@ -1,6 +1,6 @@
 ## O F F E N S I V E
 
-<a href="{{ site.baseurl }}_posts/OSINT">OSINT</a></br>
+<a href="{{ site.baseurl }}_posts/OSINT.md">OSINT</a></br>
 C2
 files windows
 files linux
