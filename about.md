@@ -9,7 +9,7 @@ The goal of 0ffSecVault is to share and help professionals or enthusiastic peopl
 
 ### More Information
 
-b0ydC - Esteban Brenes S
+b0ydC - Esteban Brenes S<br>
 Owner
 
 Security Engineer from Costa Rica.
