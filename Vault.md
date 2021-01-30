@@ -1,0 +1,12 @@
+Some information about you!
+
+### More Information
+
+A place to include any other types of information that you'd like to include about yourself.
+
+<a href="{{ site.baseurl }}/redteam">RED TEAM | OFFENSIVE</a>
+<a href="{{ site.baseurl }}/blueteam">BLUE TEAM | DEFENSIVE</a>
+
+### Contact me
+
+[0ffsecvault@protonmail.com](mailto:0ffsecvault@protonmail.com)
