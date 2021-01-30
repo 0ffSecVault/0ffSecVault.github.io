@@ -1,4 +1,8 @@
-
+---
+layout: page
+permalink: /vault/
+published: true
+---
 
 <center>
 <a href="{{ site.baseurl }}/redteam">RED TEAM | OFFENSIVE</a><br><br>
