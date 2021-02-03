@@ -8,6 +8,9 @@ published: true
 <a href="{{ site.baseurl }}/_posts/2021-01-30-OSINT.md">OSINT</a><br>
 <a href="{{ site.baseurl }}/0ffSecVault.github.io/_posts/2021-01-30-OSINT.md">OSINT</a><br>
 
+
+[Link]({{ site.baseurl }}{% link _posts/OSINT/2021-01-30-OSINT.html %})
+
 <a href="{{ site.baseurl }}{{ post.url }}/_posts/2021-01-30-OSINT.md">OSINT</a>
 
 <div class="posts">
