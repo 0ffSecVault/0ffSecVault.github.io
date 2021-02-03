@@ -50,6 +50,7 @@ url:
 baseurl: "https://0ffsecvault.github.io"
 
 include: ['_posts/OSINT/']
+include: ['_posts/malware/']
 
 #
 # !! You don't need to change any of the configuration flags below !!
